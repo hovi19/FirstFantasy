@@ -1,0 +1,45 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:201f45f0b5a17809e08a65c45708bcb7:31ffd6bfa5fb635094ccb49326d1aee9:618c29fbfa4ba4eeb97d4079ed1dac48$
+#
+:format=40300
+:texture=HeroFrontIdle.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+0_Warrior_Idle Blinking_000;1;1717;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle Blinking_001;333;1717;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle Blinking_002;665;1717;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle Blinking_003;997;1717;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle Blinking_004;1329;1717;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle Blinking_005;1661;1717;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle Blinking_006;1;1385;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle Blinking_007;333;1385;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle Blinking_008;665;1385;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle Blinking_009;997;1385;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle Blinking_010;1329;1385;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle Blinking_011;1661;1385;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle Blinking_012;1;1053;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle Blinking_013;333;1053;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle Blinking_014;665;1053;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle Blinking_015;997;1053;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle Blinking_016;1329;1053;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle Blinking_017;1661;1053;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle Blinking_018;1;721;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle Blinking_019;333;721;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle Blinking_020;665;721;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle Blinking_021;997;721;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle Blinking_022;1329;721;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle Blinking_023;1661;721;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle Blinking_024;1;389;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle Blinking_025;333;389;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle Blinking_026;665;389;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle Blinking_027;997;389;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle Blinking_028;1329;389;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle Blinking_029;1661;389;330;330; 0.5;0.5; 0;0;0;0

@@ -1,0 +1,45 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:7bc68999ac53fc4ddb3368bcd9b10134:6dd74521b8c2dcc1dad0971c80bab47a:cbb8375f06ae1a2427008792e368a3c5$
+#
+:format=40300
+:texture=HeroBackIdle.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+0_Warrior_Idle_000;1;1717;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle_001;333;1717;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle_002;665;1717;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle_003;997;1717;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle_004;1329;1717;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle_005;1661;1717;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle_006;1;1385;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle_007;333;1385;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle_008;665;1385;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle_009;997;1385;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle_010;1329;1385;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle_011;1661;1385;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle_012;1;1053;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle_013;333;1053;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle_014;665;1053;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle_015;997;1053;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle_016;1329;1053;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle_017;1661;1053;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle_018;1;721;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle_019;333;721;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle_020;665;721;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle_021;997;721;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle_022;1329;721;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle_023;1661;721;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle_024;1;389;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle_025;333;389;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle_026;665;389;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle_027;997;389;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle_028;1329;389;330;330; 0.5;0.5; 0;0;0;0
+0_Warrior_Idle_029;1661;389;330;330; 0.5;0.5; 0;0;0;0

@@ -1,0 +1,847 @@
+fileFormatVersion: 2
+guid: a41bcfa5af484a645a1e56e2bf7f24e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 184977467090703965
+    second: HeroBackIdle_0
+  - first:
+      213: 7353057793173307946
+    second: HeroBackIdle_1
+  - first:
+      213: 1641057771207800212
+    second: HeroBackIdle_2
+  - first:
+      213: -66122677137094439
+    second: HeroBackIdle_3
+  - first:
+      213: -4232486864445570205
+    second: HeroBackIdle_4
+  - first:
+      213: -2522341087652009329
+    second: HeroBackIdle_5
+  - first:
+      213: 8656113302076105290
+    second: HeroBackIdle_6
+  - first:
+      213: -324597772095324559
+    second: HeroBackIdle_7
+  - first:
+      213: -6646082339450421429
+    second: HeroBackIdle_8
+  - first:
+      213: -1585874914788054850
+    second: HeroBackIdle_9
+  - first:
+      213: 4496664024841591424
+    second: HeroBackIdle_10
+  - first:
+      213: 2635603202877505589
+    second: HeroBackIdle_11
+  - first:
+      213: -2921335202354835575
+    second: HeroBackIdle_12
+  - first:
+      213: 7540041586503303203
+    second: HeroBackIdle_13
+  - first:
+      213: 5330532963501633675
+    second: HeroBackIdle_14
+  - first:
+      213: -2439575247386554343
+    second: HeroBackIdle_15
+  - first:
+      213: 3589894092602983444
+    second: HeroBackIdle_16
+  - first:
+      213: -2562637740091625875
+    second: HeroBackIdle_17
+  - first:
+      213: 7217742016887130474
+    second: HeroBackIdle_18
+  - first:
+      213: -6497219742731331402
+    second: HeroBackIdle_19
+  - first:
+      213: 7274054887338996290
+    second: HeroBackIdle_20
+  - first:
+      213: 7254034697449035660
+    second: HeroBackIdle_21
+  - first:
+      213: 1474674626705816473
+    second: HeroBackIdle_22
+  - first:
+      213: -7595581127774102005
+    second: HeroBackIdle_23
+  - first:
+      213: 7121131133530266699
+    second: HeroBackIdle_24
+  - first:
+      213: 216398734518533442
+    second: HeroBackIdle_25
+  - first:
+      213: 7025382112620398180
+    second: HeroBackIdle_26
+  - first:
+      213: 5734952052692330885
+    second: HeroBackIdle_27
+  - first:
+      213: -7309859520722766327
+    second: HeroBackIdle_28
+  - first:
+      213: 8150707332236651928
+    second: HeroBackIdle_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroBackIdle_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1792
+        width: 120
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dd15b05238e854c9aef7d323a74219
+      internalID: 184977467090703965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroBackIdle_1
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1792
+        width: 120
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e390ce3c9319c94f95e72e630a96226
+      internalID: 7353057793173307946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroBackIdle_2
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1792
+        width: 120
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0921eb4ec315749b7bda539b3bc400
+      internalID: 1641057771207800212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroBackIdle_3
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1792
+        width: 120
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51e6e35d9c2448479f85569f27d747c
+      internalID: -66122677137094439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroBackIdle_4
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1792
+        width: 120
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2a4864f6650b8469b578f62a869c23
+      internalID: -4232486864445570205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroBackIdle_5
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 1792
+        width: 120
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4035d4430a96c49b13a158688b7474
+      internalID: -2522341087652009329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroBackIdle_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1460
+        width: 120
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb2fc8e463c7854c8a2ec6550b073e6
+      internalID: 8656113302076105290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroBackIdle_7
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1460
+        width: 120
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be9200562c68e24397c72d2b68001c5
+      internalID: -324597772095324559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroBackIdle_8
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1460
+        width: 120
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a22971830487f489a8def3e35dbd49
+      internalID: -6646082339450421429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroBackIdle_9
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1460
+        width: 120
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27f76e72e111794e994724970292f3e
+      internalID: -1585874914788054850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroBackIdle_10
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1460
+        width: 120
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9295ef301d2a51429b6289b489d126b
+      internalID: 4496664024841591424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroBackIdle_11
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 1460
+        width: 120
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcaf2eb3a0b144f41b93fc789f3f0095
+      internalID: 2635603202877505589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroBackIdle_12
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1128
+        width: 120
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a29097d519d46489206971cc7c6bbd
+      internalID: -2921335202354835575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroBackIdle_13
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1128
+        width: 120
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c707214d2116bc546afe4a194004b14c
+      internalID: 7540041586503303203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroBackIdle_14
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1128
+        width: 120
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54da1205a85f44f41ae7f250350e1333
+      internalID: 5330532963501633675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroBackIdle_15
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1128
+        width: 120
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68caa8a37b66bb41bbd0b0dcf265e88
+      internalID: -2439575247386554343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroBackIdle_16
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1128
+        width: 120
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ec675e8ab13a94695bf4e20e2b9131
+      internalID: 3589894092602983444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroBackIdle_17
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 1128
+        width: 120
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10a4f23bcf35c940816ba3e8862bfb7
+      internalID: -2562637740091625875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroBackIdle_18
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 796
+        width: 120
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd58b054b0cdeaf438b4a9a9cd1bc870
+      internalID: 7217742016887130474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroBackIdle_19
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 796
+        width: 120
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad245ea01dcf42a42b7408a39150d814
+      internalID: -6497219742731331402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroBackIdle_20
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 796
+        width: 120
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186c03a555b65d44190ccab50aff8164
+      internalID: 7274054887338996290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroBackIdle_21
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 796
+        width: 120
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6073fcecc832a429f535ad2773d1e4
+      internalID: 7254034697449035660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroBackIdle_22
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 796
+        width: 120
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a518ac3fe458a4d84044f9565acc79
+      internalID: 1474674626705816473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroBackIdle_23
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 796
+        width: 120
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ed9fb7fd65f9b438a1607f887eeaf4
+      internalID: -7595581127774102005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroBackIdle_24
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 464
+        width: 120
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8fc1efa5037e948b75cc6db4c51c45
+      internalID: 7121131133530266699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroBackIdle_25
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 464
+        width: 120
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7744189c4c5efe24c97bc70e0ed5b185
+      internalID: 216398734518533442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroBackIdle_26
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 464
+        width: 120
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e747022d0b9e784eb96115674d0808f
+      internalID: 7025382112620398180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroBackIdle_27
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 464
+        width: 120
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5ca170bd801c84d990822f0b230ca4
+      internalID: 5734952052692330885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroBackIdle_28
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 464
+        width: 120
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900f2b625d38eed4caf379e581e34ccd
+      internalID: -7309859520722766327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroBackIdle_29
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 464
+        width: 120
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17cc758b1bc7c94da78c039a103dfb0
+      internalID: 8150707332236651928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
